@@ -2,7 +2,9 @@
 ### (Under Development)
 
 **The Tokenized Tech** is a knowledge series by [Aaron TM](https://linkedin.com/in/aarontm19), created to help executives, product leaders, professionals and anyone understand the world of Artificial Intelligence—especially Generative AI—without needing a deep technical background.
-
+- LinkedIn: coming soon 
+- Medium: coming soon 
+- Substack: coming soon
 ## What This Is
 
 This series breaks down important AI topics into clear, focused articles that are easy to follow. The goal is to help you:
