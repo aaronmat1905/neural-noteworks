@@ -1,4 +1,5 @@
 # The Tokenized Tech
+### (Under Development)
 
 **The Tokenized Tech** is a knowledge series by [Aaron TM](https://linkedin.com/in/aarontm19), created to help executives, product leaders, professionals and anyone understand the world of Artificial Intelligence—especially Generative AI—without needing a deep technical background.
 
